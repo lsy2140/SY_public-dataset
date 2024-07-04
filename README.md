@@ -14,7 +14,7 @@ This repository provide analysis of public datasets for mechanical systems.
 |Fault types|?|
 |Speed conditions|?|
 |Load conditions|?|
-### 3. [PU (Paderborn University)]([https://www.mfpt.org/fault-data-sets/](https://mb.uni-paderborn.de/en/kat/research/kat-datacenter/bearing-datacenter/data-sets-and-download))
+### 3. [PU (Paderborn University)](https://www.mfpt.org/fault-data-sets/](https://mb.uni-paderborn.de/en/kat/research/kat-datacenter/bearing-datacenter/data-sets-and-download)
 |Model|?|
 |------|---|
 |Fault types|?|
