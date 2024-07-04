@@ -1,2 +1,5 @@
 # HAI_public-dataset
-Analysis of public datasets for mechanical systems.
+This repository provide analysis of public datasets for mechanical systems.
+
+## Bearing
+### 1. CWRU (Case Western Reserve) 
