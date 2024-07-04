@@ -20,3 +20,9 @@ This repository provide analysis of public datasets for mechanical systems.
 |Fault types|?|
 |Speed conditions|?|
 |Load conditions|?|
+### 4. [JNU (Paderborn University)](https://mb.uni-paderborn.de/en/kat/research/kat-datacenter/bearing-datacenter/data-sets-and-download)
+|Model|?|
+|------|---|
+|Fault types|?|
+|Speed conditions|?|
+|Load conditions|?|
