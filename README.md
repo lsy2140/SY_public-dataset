@@ -3,8 +3,7 @@ This repository provide analysis of public datasets for mechanical systems.
 
 ## :radio_button:Bearing
 ### 1. [CWRU (Case Western Reserve University)](https://engineering.case.edu/bearingdatacenter/download-data-file)
-|Model|내용|설명|
-|------|---|---|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
+|Model|?|
+|Fault types|?|
+|Speed conditions|?|
+|Load conditions|?|
