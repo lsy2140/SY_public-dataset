@@ -1,4 +1,4 @@
-# HAI_public-dataset
+# SY_public-dataset
 This repository provide analysis of public datasets for mechanical systems.
 
 ## 1. Bearing
