@@ -87,3 +87,8 @@ This repository provide analysis of public datasets for mechanical systems.
 |Fault types|Fault severity|Speed conditions|Load conditions|Related paper|
 |------|------|------|------|------|
 |..|..|..|..|[📑](https://doi.org/10.1016/j.asoc.2019.105950) [🔗](https://c3.ndc.nasa.gov/dashlink/resources/997/) [🔗](https://phmsociety.org/public-data-sets/)|
+
+### 18. [MUET (Mehran University of Engineering & Technology)](https://data.mendeley.com/datasets/fm6xzxnf36/2)
+|Fault types|Fault severity|Speed conditions|Load conditions|Related paper|
+|------|------|------|------|------|
+|..|..|..|..|[📑](https://www.sciencedirect.com/science/article/pii/S2352340922005170#refdata001)|
