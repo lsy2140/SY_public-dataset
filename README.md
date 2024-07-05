@@ -57,3 +57,8 @@ This repository provide analysis of public datasets for mechanical systems.
 |Fault types|Fault severity|Speed conditions|Load conditions|Related paper|
 |------|------|------|------|------|
 |..|..|..|..|[📑](https://doi.org/10.1016/j.dib.2023.109049)|
+
+### 12. [HUST (Hanoi University of Science and Technology)](https://data.mendeley.com/datasets/cbv7jyx4p9/3)
+|Fault types|Fault severity|Speed conditions|Load conditions|Related paper|
+|------|------|------|------|------|
+|..|..|..|..|[📑](https://doi.org/10.1186/s13104-023-06400-4)|
