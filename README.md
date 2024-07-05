@@ -97,3 +97,8 @@ This repository provide analysis of public datasets for mechanical systems.
 |Fault types|Fault severity|Speed conditions|Load conditions|Related paper|
 |------|------|------|------|------|
 |..|..|..|..|[📑](http://dx.doi.org/10.2139/ssrn.4756210)|
+
+### 20. [TUB (Technische Universität Braunschweig)](https://data.mendeley.com/datasets/chwhh9n3bf/2)
+|Fault types|Fault severity|Speed conditions|Load conditions|Related paper|
+|------|------|------|------|------|
+|..|..|..|..|[📑](https://doi.org/10.1177/1077546317723227)|
