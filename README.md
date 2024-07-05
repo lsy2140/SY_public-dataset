@@ -52,3 +52,8 @@ This repository provide analysis of public datasets for mechanical systems.
 |Fault types|Fault severity|Speed conditions|Load conditions|Related paper|
 |------|------|------|------|------|
 |..|..|..|..|[📑](https://www.mdpi.com/2306-5729/8/7/115)|
+
+### 11. [KAIST (Korea Advanced Institute of Science and Technology)](https://data.mendeley.com/datasets/ztmf3m7h5x/6)
+|Fault types|Fault severity|Speed conditions|Load conditions|Related paper|
+|------|------|------|------|------|
+|..|..|..|..|[📑](https://doi.org/10.1016/j.dib.2023.109049)|
