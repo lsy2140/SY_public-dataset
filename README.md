@@ -107,3 +107,6 @@ This repository provide analysis of public datasets for mechanical systems.
 |Fault types|Fault severity|Speed conditions|Load conditions|Related paper|
 |------|------|------|------|------|
 |..|..|..|..|[📑](https://doi.org/10.1016/j.dib.2024.110453)|
+
+## To be updated
+*[22](https://data.mendeley.com/datasets/2znkfwhzs7/1)*
