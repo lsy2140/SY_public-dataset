@@ -91,4 +91,9 @@ This repository provide analysis of public datasets for mechanical systems.
 ### 18. [MUET (Mehran University of Engineering & Technology)](https://data.mendeley.com/datasets/fm6xzxnf36/2)
 |Fault types|Fault severity|Speed conditions|Load conditions|Related paper|
 |------|------|------|------|------|
-|..|..|..|..|[📑](https://www.sciencedirect.com/science/article/pii/S2352340922005170#refdata001)|
+|..|..|..|..|[📑](https://doi.org/10.1016/j.dib.2022.108315)|
+
+### 19. [JUST (Jiangsu University of Science and Technology)](https://data.mendeley.com/datasets/hwg8v5j8t6/1)
+|Fault types|Fault severity|Speed conditions|Load conditions|Related paper|
+|------|------|------|------|------|
+|..|..|..|..|[📑](http://dx.doi.org/10.2139/ssrn.4756210)|
