@@ -77,3 +77,8 @@ This repository provide analysis of public datasets for mechanical systems.
 |Fault types|Fault severity|Speed conditions|Load conditions|Related paper|
 |------|------|------|------|------|
 |Run-to-failure|..|..|..|[📑](https://doi.org/10.1016/j.ymssp.2021.108466) [📑](https://doi.org/10.1016/j.ymssp.2020.107376)|
+
+### 16. [UNSW (Norwegian University of Science and Technology)](https://zenodo.org/records/10644756)
+|Fault types|Fault severity|Speed conditions|Load conditions|Related paper|
+|------|------|------|------|------|
+|..|..|..|..|[📑](https://doi.org/10.1002/we.1884)|
