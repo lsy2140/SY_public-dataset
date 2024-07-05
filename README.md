@@ -37,3 +37,13 @@ This repository provide analysis of public datasets for mechanical systems.
 |Fault types|Fault severity|Speed conditions|Load conditions|Related paper|
 |------|------|------|------|------|
 |..|..|..|..|[📑](https://ieeexplore.ieee.org/document/8713860) [📑](https://www.sciencedirect.com/science/article/pii/S0888327017300754) [🔗](https://github.com/mingzhangPHD/Transfer-Learning-for-Fault-Diagnosis/tree/master/WDMAN)|
+
+### 8. [NASA IMS (Intelligent Maintenance Systems)](https://www.nasa.gov/intelligent-systems-division/discovery-and-systems-health/pcoe/pcoe-data-set-repository/)
+|Fault types|Fault severity|Speed conditions|Load conditions|Related paper|
+|------|------|------|------|------|
+|..|..|..|..|[📑]()|
+
+### 9. [FEMTO (Franche-Comté Electronics Mechanics Thermal Science and Optics – Sciences and Technologies)](https://www.nasa.gov/intelligent-systems-division/discovery-and-systems-health/pcoe/pcoe-data-set-repository/)
+|Fault types|Fault severity|Speed conditions|Load conditions|Related paper|
+|------|------|------|------|------|
+|..|..|..|..|[📑](https://hal.science/hal-00719503/) [🔗](https://github.com/wkzs111/phm-ieee-2012-data-challenge-dataset?tab=readme-ov-file)|
