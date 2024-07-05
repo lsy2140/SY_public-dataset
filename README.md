@@ -4,9 +4,9 @@ This repository provide analysis of public datasets for mechanical systems.
 ## :radio_button:Bearing
 ### Summary
 |Dataset|Fault severity estimation|Time-varying speed|Different speed|Different load|Run-to-failure|Compound fault|
-|:-----:|:-----------------------:|:----------------:|:-------------:|:------------:|:------------:|:------------:|
+|:-----|:-----------------------:|:----------------:|:-------------:|:------------:|:------------:|:------------:|
 |[1](#1-cwru-case-western-reserve-university). CWRU|☑️|..|..|☑️|..|..|
-|[2. MFPT](#2-mfpt-machinery-failure-prevention-technology)|..|..|..|..|..|..|
+|[2](#2-mfpt-machinery-failure-prevention-technology). MFPT|..|..|..|..|..|..|
 |[3](#17phm09-data-challenge)|..|..|..|..|..|..|
 |[4]|..|..|..|..|..|..|
 |[5]|..|..|..|..|..||..|
