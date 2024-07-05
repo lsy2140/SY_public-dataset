@@ -14,7 +14,7 @@ This repository provide analysis of public datasets for mechanical systems.
 |[7]|..|..|..|..|..||..|
 |[8]|..|..|..|..|..||..|
 ---
-[2](#안녕)
+[2](#hi)
 ### 1. [CWRU (Case Western Reserve University)](https://engineering.case.edu/bearingdatacenter/download-data-file)
 |Fault types|Fault severity|Speed conditions|Load conditions|Related paper|
 |------|------|------|------|------|
@@ -130,4 +130,4 @@ This repository provide analysis of public datasets for mechanical systems.
 [2](https://zenodo.org/records/8241764)
 [3](https://dataverse.no/dataset.xhtml?persistentId=doi:10.18710/NZJOIS)
 
-# 안녕
+# hi
