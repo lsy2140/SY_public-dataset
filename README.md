@@ -68,7 +68,12 @@ This repository provide analysis of public datasets for mechanical systems.
 |------|------|------|------|------|
 |..|..|..|..|[📑](https://doi.org/10.37965/jdmd.2023.314)|
 
-### 13. [VBA-VA001 (?????)](https://zenodo.org/records/7006575)
+### 14. [VBA-VA001 (?????)](https://zenodo.org/records/7006575)
 |Fault types|Fault severity|Speed conditions|Load conditions|Related paper|
 |------|------|------|------|------|
 |..|..|..|..|[📑](https://doi.org/10.1007/s42417-023-00959-9) [🔗](https://github.com/bagustris/vbl-va001)|
+
+### 15. [UNSW (University of New South Wales)](https://data.mendeley.com/datasets/h4df4mgrfb/3)
+|Fault types|Fault severity|Speed conditions|Load conditions|Related paper|
+|------|------|------|------|------|
+|Run-to-failure|..|..|..|[📑](https://doi.org/10.1016/j.ymssp.2021.108466) [📑](https://doi.org/10.1016/j.ymssp.2020.107376)|
