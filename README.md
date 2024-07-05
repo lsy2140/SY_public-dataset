@@ -108,5 +108,10 @@ This repository provide analysis of public datasets for mechanical systems.
 |------|------|------|------|------|
 |..|..|..|..|[📑](https://doi.org/10.1016/j.dib.2024.110453)|
 
+### 22. [Ottawa2 (University of Ottawa)](https://data.mendeley.com/datasets/v43hmbwxpm/2)
+|Fault types|Fault severity|Speed conditions|Load conditions|Related paper|
+|------|------|------|------|------|
+|..|..|..|..|[📑](https://doi.org/10.1016/j.dib.2018.11.019)|
+
 ## To be updated
-*[22](https://data.mendeley.com/datasets/2znkfwhzs7/1)*
+[1](https://data.mendeley.com/datasets/2znkfwhzs7/1)
