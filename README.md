@@ -3,7 +3,7 @@ This repository provide analysis of public datasets for mechanical systems.
 
 ## :radio_button:Bearing
 ### Summary
-|Dataset|Fault severity estimation|Time-varying speed|Different speed|Different load|Run-to-failure|Compound fault|")이 ”
+|Dataset|Fault severity estimation|Time-varying speed|Different speed|Different load|Run-to-failure|Compound fault|
 |-------|:-----------------------:|:----------------:|:-------------:|:------------:|:------------:|:------------:|
 |[1](###1.-cwru-(case-western-reserve-university))|☑️|..|..|☑️|..|..|
 |[2](##to-be-updated)|..|..|..|..|..|..|
@@ -14,7 +14,7 @@ This repository provide analysis of public datasets for mechanical systems.
 |[7]|..|..|..|..|..||..|
 |[8]|..|..|..|..|..||..|
 ---
-### 1. [CWRU (Case Western Reserve University)](https://engineering.case.edu/bearingdatacenter/download-data-file){:target=”_blank”}
+### 1. [CWRU (Case Western Reserve University)](https://engineering.case.edu/bearingdatacenter/download-data-file)
 |Fault types|Fault severity|Speed conditions|Load conditions|Related paper|
 |------|------|------|------|------|
 |..|..|..|..|..|
