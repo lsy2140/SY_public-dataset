@@ -33,7 +33,7 @@ This repository provide analysis of public datasets for mechanical systems.
 |------|------|------|------|------|
 |..|..|..|..|[📑](https://ieeexplore.ieee.org/document/8576668) [🔗](https://github.com/WangBiaoXJTU/xjtu-sy-bearing-datasets)|
 
-### 6. [JUST 1](https://data.mendeley.com/datasets/hwg8v5j8t6/1) & JUST 2(https://data.mendeley.com/datasets/hwg8v5j8t6/2) (Jiangsu University of Science and Technology)]
+### 6. [JUST 1](https://data.mendeley.com/datasets/hwg8v5j8t6/1) & [JUST 2](https://data.mendeley.com/datasets/rcxgmdxhbr/1) (Jiangsu University of Science and Technology)]
 |Model|Fault types|Speed conditions|Load conditions|Related paper|
 |------|------|------|------|------|
 |..|..|..|..|[📑](https://ieeexplore.ieee.org/document/8576668) [🔗](https://github.com/WangBiaoXJTU/xjtu-sy-bearing-datasets)|
