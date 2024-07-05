@@ -5,7 +5,7 @@ This repository provide analysis of public datasets for mechanical systems.
 ### Summary
 |Dataset|Fault severity estimation|Time-varying speed|Different speed|Different load|Run-to-failure|Compound fault|
 |-------|:-----------------------:|:----------------:|:-------------:|:------------:|:------------:|:------------:|
-|[1](###-1.)|☑️|..|..|☑️|..|..|
+|[1](###-21.)|☑️|..|..|☑️|..|..|
 |[2]|..|..|..|..|..|..|
 |[3]|..|..|..|..|..|..|
 |[4]|..|..|..|..|..|..|
