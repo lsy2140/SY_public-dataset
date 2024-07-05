@@ -15,16 +15,16 @@ This repository provide analysis of public datasets for mechanical systems.
 |[8]|..|..|..|..|..||..|
 
 ### Summary
-| Dataset                                                    | Fault severity estimation | Time-varying speed | Different speed | Different load | Run-to-failure | Compound fault |    |
-|--:---------------------------------------------------------|--:-:----------------------|--:-:---------------|--:-:------------|--:-:-----------|--:-:-----------|--:-:-----------|----|
-| [1. CWRU](#1-cwru-case-western-reserve-university)         |                           |                    |                 |                | ..             | ..             |    |
-| [2. MFPT](#2-mfpt-machinery-failure-prevention-technology) | ..                        | ..                 | ..              | ..             | ..             | ..             |    |
-| [3. PU](#3-pu-paderborn-university)                        | ..                        | ..                 | ..              | ..             | ..             | ..             |    |
-| [4]                                                        | ..                        | ..                 | ..              | ..             | ..             | ..             |    |
-| [5]                                                        | ..                        | ..                 | ..              | ..             | ..             |                | .. |
-| [6]                                                        | ..                        | ..                 | ..              | ..             | ..             |                | .. |
-| [7]                                                        | ..                        | ..                 | ..              | ..             | ..             |                | .. |
-| [8]                                                        | ..                        | ..                 | ..              | ..             | ..             |                | .. |
+| Dataset                                                    | Fault severity estimation | Time-varying speed | Different speed | Different load | Run-to-failure | Compound fault |
+|--:---------------------------------------------------------|--:-:----------------------|--:-:---------------|--:-:------------|--:-:-----------|--:-:-----------|--:-:-----------|
+| [1. CWRU](#1-cwru-case-western-reserve-university)         |                           |                    |                 |                | ..             | ..             |
+| [2. MFPT](#2-mfpt-machinery-failure-prevention-technology) | ..                        | ..                 | ..              | ..             | ..             | ..             |
+| [3. PU](#3-pu-paderborn-university)                        | ..                        | ..                 | ..              | ..             | ..             | ..             |
+| [4]                                                        | ..                        | ..                 | ..              | ..             | ..             | ..             |
+| [5]                                                        | ..                        | ..                 | ..              | ..             | ..             |                |
+| [6]                                                        | ..                        | ..                 | ..              | ..             | ..             |                |
+| [7]                                                        | ..                        | ..                 | ..              | ..             | ..             |                |
+| [8]                                                        | ..                        | ..                 | ..              | ..             | ..             |                |
 
 ---
 ### 1. [CWRU (Case Western Reserve University)](https://engineering.case.edu/bearingdatacenter/download-data-file)
