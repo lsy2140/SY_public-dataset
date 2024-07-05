@@ -62,3 +62,8 @@ This repository provide analysis of public datasets for mechanical systems.
 |Fault types|Fault severity|Speed conditions|Load conditions|Related paper|
 |------|------|------|------|------|
 |..|..|..|..|[📑](https://doi.org/10.1186/s13104-023-06400-4)|
+
+### 13. [HIT (Harbin Institute of Technology)](https://github.com/HouLeiHIT/HIT-dataset)
+|Fault types|Fault severity|Speed conditions|Load conditions|Related paper|
+|------|------|------|------|------|
+|..|..|..|..|[📑](https://doi.org/10.37965/jdmd.2023.314)|
