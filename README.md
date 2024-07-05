@@ -106,4 +106,4 @@ This repository provide analysis of public datasets for mechanical systems.
 ### 21. [MCC5 (Metallurgical Corporation of China)](https://data.mendeley.com/datasets/p92gj2732w/2)
 |Fault types|Fault severity|Speed conditions|Load conditions|Related paper|
 |------|------|------|------|------|
-|..|..|..|..|[📑](https://doi.org/10.48550/arXiv.2403.12521)|
+|..|..|..|..|[📑](https://doi.org/10.1016/j.dib.2024.110453)|
