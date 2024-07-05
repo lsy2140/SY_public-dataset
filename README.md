@@ -47,3 +47,8 @@ This repository provide analysis of public datasets for mechanical systems.
 |Fault types|Fault severity|Speed conditions|Load conditions|Related paper|
 |------|------|------|------|------|
 |..|..|..|..|[📑](https://hal.science/hal-00719503/) [🔗](https://github.com/wkzs111/phm-ieee-2012-data-challenge-dataset?tab=readme-ov-file)|
+
+### 10. [SCA (Svenska Cellulosa Aktiebolaget)](https://data.mendeley.com/datasets/tdn96mkkpt/1)
+|Fault types|Fault severity|Speed conditions|Load conditions|Related paper|
+|------|------|------|------|------|
+|..|..|..|..|[📑](https://www.mdpi.com/2306-5729/8/7/115)|
