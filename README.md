@@ -27,3 +27,8 @@ This repository provide analysis of public datasets for mechanical systems.
 |Model|Fault types|Speed conditions|Load conditions|Related paper|
 |------|------|------|------|------|
 |..|..|..|..|[📑](https://www.sciencedirect.com/science/article/pii/S2352340923004456#refdata001)|
+
+### 6. [XJTU-SY (Xi’an Jiaotong University (XJTU) and Changxing Sumyoung Technology Co., Ltd. (SY))](https://biaowang.tech/xjtu-sy-bearing-datasets/)
+|Model|Fault types|Speed conditions|Load conditions|Related paper|
+|------|------|------|------|------|
+|..|..|..|..|[📑](https://ieeexplore.ieee.org/document/8576668) [🔗](https://github.com/WangBiaoXJTU/xjtu-sy-bearing-datasets)|
