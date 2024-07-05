@@ -116,3 +116,4 @@ This repository provide analysis of public datasets for mechanical systems.
 ## To be updated
 [1](https://data.mendeley.com/datasets/2znkfwhzs7/1)
 [2](https://zenodo.org/records/8241764)
+[3](https://dataverse.no/dataset.xhtml?persistentId=doi:10.18710/NZJOIS)
