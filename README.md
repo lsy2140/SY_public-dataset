@@ -21,7 +21,7 @@ This repository provide analysis of public datasets for mechanical systems.
 ### 4. [JNU (Jiangnan University)](https://github.com/ClarkGableWang/JNU-Bearing-Dataset)
 |Fault types|Fault severity|Speed conditions|Load conditions|Related paper|
 |------|------|------|------|------|
-|..|..|..|..|..|
+|..|..|..|..|[🔗](https://github.com/ClarkGableWang/JNU-Bearing-Dataset)|
 
 ### 5. [Ottawa (University of Ottawa)](https://data.mendeley.com/datasets/y2px5tg92h/5)
 |Fault types|Fault severity|Speed conditions|Load conditions|Related paper|
