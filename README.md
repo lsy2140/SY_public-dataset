@@ -2,7 +2,7 @@
 This repository provide analysis of public datasets for mechanical systems.
 
 ## :radio_button:Bearing
-### Summary
+### Summary - [X]
 |Dataset|Fault severity estimation|Time-varying speed|Different load|Run-to-failure|Compound fault|
 |------|------|------|------|------|------|
 |1. CWRU|- []|..|..|..|..|
