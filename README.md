@@ -22,3 +22,8 @@ This repository provide analysis of public datasets for mechanical systems.
 |Model|Fault types|Speed conditions|Load conditions|Related paper|
 |------|------|------|------|------|
 |..|..|..|..|..|
+
+### 5. [Ottawa (University of Ottawa)](https://data.mendeley.com/datasets/y2px5tg92h/5)
+|Model|Fault types|Speed conditions|Load conditions|Related paper|
+|------|------|------|------|------|
+|..|..|..|..|[📑](https://www.sciencedirect.com/science/article/pii/S2352340923004456#refdata001)|
