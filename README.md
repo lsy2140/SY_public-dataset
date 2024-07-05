@@ -95,7 +95,7 @@ This repository provide analysis of public datasets for mechanical systems.
 |------|------|------|------|------|
 |..|..|..|..|[📑](https://doi.org/10.1002/we.1884)|
 
-### 17. [PHM09 Data challenge](https://data.mendeley.com/datasets/fkp3nn4tp7/1): The original download link is not available, so I insert subsituttion link & paper.
+### 17 [PHM09 Data challenge](https://data.mendeley.com/datasets/fkp3nn4tp7/1): The original download link is not available, so I insert subsituttion link & paper.
 |Fault types|Fault severity|Speed conditions|Load conditions|Related paper|
 |------|------|------|------|------|
 |..|..|..|..|[📑](https://doi.org/10.1016/j.asoc.2019.105950) [🔗](https://c3.ndc.nasa.gov/dashlink/resources/997/) [🔗](https://phmsociety.org/public-data-sets/)|
