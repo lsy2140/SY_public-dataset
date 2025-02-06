@@ -1,4 +1,4 @@
-# SY_public-dataset
+# SY_public_dataset
 This repository provide analysis of public datasets for mechanical systems.
 
 ## :radio_button:Bearing
